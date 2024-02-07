@@ -39,8 +39,15 @@
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SVGamage&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <br>
+<h2 align="center">Frequently Used Technologies</h2>
+
+
+<br>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVGamage&theme=dark&layout=compact" width="410" />
+</div>
+<br>
   </td>
 </tr>
 </table>
