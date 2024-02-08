@@ -62,7 +62,7 @@
 
 
 <div align="center">
-  <img  src="https://github.com/SVGamage/SVGamage/blob/output/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/SVGamage/SVGamage/blob/output/github-contribution-grid-snake-dark.svg"
        alt="snake" /></a>
 </div>
 
