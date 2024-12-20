@@ -11,6 +11,8 @@
     <a href="https://github.com/SVGamage"> 
     <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNK-Works%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
     </a>
+</p>
+<p align="center">
     <a href="https://github.com/SVGamage">
       <img align="center" width ="%" src="https://img.shields.io/github/followers/SVGamage?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge">
     </a>
@@ -45,46 +47,35 @@
 <p align="center">
 <table align="center" style="width: 100%; border: none;">
     <tr>
+        <td colspan="1" align="center">
+            <a href="https://github.com/SVGamage">
+                <img src="https://github-readme-stats.vercel.app/api?username=SVGamage&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="SV's GitHub Stats" />
+            </a>
+        </td>
+      <td colspan="1" align="center">
+        <a href="https://github.com/SVGamage">
+        <img src="https://github-readme-stats-tan-eight-63.vercel.app/api/top-langs/?username=SVGamage&show_icons=true&line_height=30&hide_title=true&theme=algolia&locale=cn&layout=compact" width="90%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
         <td colspan="2" align="center">
             <a href="https://github.com/SVGamage">
-                <img src="https://github-readme-stats.vercel.app/api?username=SVGamage&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="SV's GitHub Stats"/>
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SVGamage&theme=algolia" width="90%"/>
+            </a>
+        </td>
+    </tr>
+  <tr>
+        <td colspan="2" align="center">
+            <a href="https://github.com/SVGamage">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=SVGamage&theme=algolia&card_width=1000" width="90%" alt="GitHub Streak"/>
             </a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
             <a href="https://github.com/SVGamage">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SVGamage&theme=algolia" width="100%"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-    <td align="center">
-            <a href="https://github.com/SVGamage">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SVGamage&theme=algolia" width="90%" alt="Productive Time" title="🦉 Night owl"/>
-            </a>
-            <br/><br/>
-            <a href="https://github.com/SVGamage">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SVGamage&theme=algolia" width="90%" alt="Top One Language by Repo"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/SVGamage">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SVGamage&theme=algolia" width="90%" alt="Top Language by Commit"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <a href="https://github.com/SVGamage">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=SVGamage&theme=algolia&card_width=1000" alt="GitHub Streak"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <a href="https://github.com/SVGamage">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=SVGamage&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" alt="GitHub Graph"/>
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=SVGamage&theme=algolia&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" width="90%" alt="GitHub Graph"/>
             </a>
         </td>
     </tr> 
@@ -95,8 +86,7 @@
 
 
 <div align="center">
-  <img  src="https://github.com/SVGamage/SVGamage/blob/output/github-contribution-grid-snake-dark.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/SVGamage/SVGamage/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" /></a>
 </div>
 
 
@@ -168,7 +158,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--STATS-->
+![icon](https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/icon.png)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 
 
