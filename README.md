@@ -7,7 +7,14 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%C8E6FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+and+Engineering+Student;University+of+Moratuwa;Exploring+the+Boundless+World+of+Technology;Always+learning+new+things"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SVGGamage&label=Profile%20views&color=0e75b6&style=flat" alt="SVGamage" /> </p>
+<p align="center">
+    <a href="https://github.com/SVGamage"> 
+    <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNK-Works%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
+    </a>
+    <a href="https://github.com/SVGamage">
+      <img align="center" width ="%" src="https://img.shields.io/github/followers/SVGamage?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge">
+    </a>
+</p>
 
 <table align="center">
 <tr border="none">
@@ -36,25 +43,51 @@
 
 ## <P align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></p>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SVGamage&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SVGamage&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-  <br>
-  
-<h2 align="center">Frequently Used Technologies</h2>
-<br>
-<div align="center">
-  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=svgamage&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</div>
-<br>
-  </td>
-</tr>
+<table align="center" style="width: 100%; border: none;">
+    <tr>
+        <td colspan="2" align="center">
+            <a href="https://github.com/SVGamage">
+                <img src="https://github-readme-stats.vercel.app/api?username=SVGamage&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="SV's GitHub Stats"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <a href="https://github.com/SVGamage">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SVGamage&theme=algolia" width="100%"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+    <td align="center">
+            <a href="https://github.com/SVGamage">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SVGamage&theme=algolia" width="90%" alt="Productive Time" title="🦉 Night owl"/>
+            </a>
+            <br/><br/>
+            <a href="https://github.com/SVGamage">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SVGamage&theme=algolia" width="90%" alt="Top One Language by Repo"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/SVGamage">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SVGamage&theme=algolia" width="90%" alt="Top Language by Commit"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <a href="https://github.com/SVGamage">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=SVGamage&theme=algolia&card_width=1000" alt="GitHub Streak"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <a href="https://github.com/SVGamage">
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=SVGamage&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" alt="GitHub Graph"/>
+            </a>
+        </td>
+    </tr> 
 </table>
 
 ---
@@ -134,6 +167,9 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--STATS-->
+
 
 
 
