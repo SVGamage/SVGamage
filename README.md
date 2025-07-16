@@ -26,7 +26,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
 
-- 📫 How to reach me **sithum.20@gmail.com**
+- 📫 How to reach me **vihangams.20@gmail.com**
 
 
 
