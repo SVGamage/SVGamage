@@ -67,8 +67,8 @@
     </tr>
   <tr>
         <td colspan="2" align="center">
-            <a href="https://github.com/SVGamage">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=SVGamage&theme=algolia&card_width=1000" width="90%" alt="GitHub Streak"/>
+            <a href="https://git.io/streak-stats">
+                <img src="https://github-readme-streak-stats-eight-smoky.vercel.app?user=SVGamage&theme=dark" alt="GitHub Streak" />
             </a>
         </td>
     </tr>
