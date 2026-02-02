@@ -49,12 +49,12 @@
     <tr>
         <td colspan="1" align="center">
             <a href="https://github.com/SVGamage">
-                <img src="https://github-readme-stats-one-alpha-33.vercel.app/api?username=SVGamage&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="SV's GitHub Stats" />
+                <img src="https://github-readme-stats-indol-nine-72.vercel.app/api?username=SVGamage&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="SV's GitHub Stats" />
             </a>
         </td>
       <td colspan="1" align="center">
         <a href="https://github.com/SVGamage">
-        <img src="https://github-readme-stats-one-alpha-33.vercel.app/api/top-langs/?username=SVGamage&show_icons=true&line_height=30&hide_title=true&theme=algolia&locale=cn&layout=compact" width="90%" />
+        <img src="https://github-readme-stats-indol-nine-72.vercel.app/api/top-langs/?username=SVGamage&show_icons=true&line_height=30&hide_title=true&theme=algolia&locale=cn&layout=compact" width="90%" />
         </a>
       </td>
     </tr>
