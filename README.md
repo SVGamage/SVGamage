@@ -2,158 +2,122 @@
 
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Sithum Vihanga</h1>
+
+<div align="center">
+  
+# Hi 👋, I'm Sithum Vihanga</h1>
+
+### Software Engineer | Full Stack Developer | AI Enthusiast
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithum-vihanga/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vihangams.20@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sithum-vihanga.vercel.app/)
+  
+</div>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%C8E6FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+and+Engineering+Student;University+of+Moratuwa;Exploring+the+Boundless+World+of+Technology;Always+learning+new+things"></a>
 </p>
-<p align="center">
-    <a href="https://github.com/SVGamage"> 
-    <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNK-Works%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/SVGamage">
-      <img align="center" width ="%" src="https://img.shields.io/github/followers/SVGamage?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge">
-    </a>
-</p>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
-
-- 📫 How to reach me **vihangams.20@gmail.com**
-
-
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
-</tr>
-</table>
 
 ---
 
+### 👨‍💻 About Me
 
-## <P align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></p>
-<p align="center">
-<table align="center" style="width: 100%; border: none;">
-    <tr>
-        <td colspan="1" align="center">
-            <a href="https://github.com/SVGamage">
-                <img src="https://github-readme-stats-indol-nine-72.vercel.app/api?username=SVGamage&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="SV's GitHub Stats" />
-            </a>
-        </td>
-      <td colspan="1" align="center">
-        <a href="https://github.com/SVGamage">
-        <img src="https://github-readme-stats-indol-nine-72.vercel.app/api/top-langs/?username=SVGamage&show_icons=true&line_height=30&hide_title=true&theme=algolia&locale=cn&layout=compact" width="90%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <a href="https://github.com/SVGamage">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SVGamage&theme=algolia" width="90%"/>
-            </a>
-        </td>
-    </tr>
-  <tr>
-        <td colspan="2" align="center">
-            <a href="https://git.io/streak-stats">
-                <img src="https://github-readme-streak-stats-eight-smoky.vercel.app?user=SVGamage&theme=dark" alt="GitHub Streak" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <a href="https://github.com/SVGamage">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=SVGamage&theme=algolia&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" width="90%" alt="GitHub Graph"/>
-            </a>
-        </td>
-    </tr> 
-</table>
+I'm a **Full Stack Developer** with 2+ years of experience building scalable web applications and data-driven solutions. I specialize in crafting performant backends, intuitive frontends, and integrating AI/ML capabilities into real-world products.
+
+- 💻 Building with **Next.js, React, Node.js, Go, PostgreSQL, MongoDB**
+- ☁️ Experienced in **AWS (Lambda, SQS, S3), Docker, CI/CD pipelines**
+- 📊 Working with **data pipelines, ETL workflows, and recommendation systems**
+- 🤖 Passionate about **Computer Vision, NLP, and AI-powered automation**
+- 🎓 Final year **BSc Computer Science & Engineering** at **University of Moratuwa**
+- 🌱 Currently exploring **Go, Cloud Architecture, and DevOps practices**
 
 ---
 
-
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img  src="https://github.com/SVGamage/SVGamage/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" /></a>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
 </div>
 
-
-
 ---
 
+### 📊 GitHub Stats
 
-
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=SVGamage&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-indol-nine-72.vercel.app/api?username=SVGamage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-indol-nine-72.vercel.app/api?username=SVGamage&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
+---
+
+### 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight-smoky.vercel.app?user=SVGamage&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
 
 ---
 
+### 🐍 Contribution Graph
 
-## <p align="center"><b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
-<p align="center">
-<a href="" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Sithum Vihanga" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Sithum Vihanga" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Sithum Vihanga" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sithum Vihanga" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Sithum Vihanga" height="50" width="50" /></a>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SVGamage/SVGamage/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SVGamage/SVGamage/output/github-contribution-grid-snake.svg" />
+    <img  src="https://github.com/SVGamage/SVGamage/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" /></a>
+  </picture>
+</div>
 
 ---
 
+### 💡 What I Do
 
+- **Full Stack Development** — Building end-to-end web apps with Next.js, React, Node.js, and Go
+- **Database Design** — Architecting scalable schemas with PostgreSQL, MongoDB, and Prisma ORM
+- **Cloud & Infrastructure** — Deploying serverless solutions with AWS Lambda, SQS, and containerized apps with Docker
+- **Data Engineering** — Creating ETL pipelines, data warehousing with Snowflake, and real-time analytics
+- **AI/ML Integration** — Implementing computer vision models, recommendation engines, and LLM-powered features
+- **API Development** — Designing RESTful and event-driven architectures for high-performance systems
 
-## <p align="center" ><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools </b></p>
-<p align="center">
-<!-- Languages -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GoLang.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Jahnojnr/skill_icons/blob/main/icons/HTML.svg" alt="nestjs" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a>
-<!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Light.svg" alt="nextjs" width="50" height="50"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Redux.svg" alt="redux" width="50" height="50"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="redux" width="50" height="50"/> </a>
-<a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://github.com/Jahnojnr/skill_icons/blob/main/icons/MaterialUI-Light.svg" alt="redux" width="50" height="50"/> </a>
-<!-- Backend -->
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> </a> 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NestJS-Light.svg" alt="nestjs" width="50" height="50"/> </a>
-<a href="https://bun.sh/" target="_blank" rel="noreferrer"> <img src="https://github.com/Jahnojnr/skill_icons/blob/main/icons/Bun-Light.svg" alt="nestjs" width="50" height="50"/> </a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Jahnojnr/skill_icons/blob/main/icons/GraphQL-Light.svg" alt="nestjs" width="50" height="50"/> </a>
-<!-- Database -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="postgresql" width="50" height="50"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="postgresql" width="50" height="50"/> </a> 
-<!-- ORM -->
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Prisma.svg" alt="prisma" width="50" height="50"/> </a>
-<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Sequelize-Light.svg" alt="prisma" width="50" height="50"/> </a>
-<!-- Other -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" alt="git" width="50" height="50"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Light.svg" alt="firebase" width="50" height="50"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Jahnojnr/skill_icons/blob/main/icons/Postman.svg" alt="firebase" width="50" height="50"/> </a>
-</p>
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=SVGamage&color=blueviolet&style=flat-square)
+
+**💬 Let's connect and build something awesome together!**
+
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -161,9 +125,3 @@
 ![icon](https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/icon.png)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-
-
