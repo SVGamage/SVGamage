@@ -75,7 +75,7 @@ I'm a **Full Stack Developer** with 2+ years of experience building scalable web
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-indol-nine-72.vercel.app/api?username=SVGamage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-indol-nine-72.vercel.app/api?username=SVGamage&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-indol-nine-72.vercel.app/api/top-langs/?username=SVGamage&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 </div>
 
 ---
