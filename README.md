@@ -74,7 +74,7 @@ I'm a **Full Stack Developer** with 2+ years of experience building scalable web
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-indol-nine-72.vercel.app/api?username=SVGamage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats-indol-nine-72.vercel.app/api?username=SVGamage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> -->
   <img height="180em" src="https://github-readme-stats-indol-nine-72.vercel.app/api/top-langs/?username=SVGamage&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 </div>
 
@@ -96,6 +96,9 @@ I'm a **Full Stack Developer** with 2+ years of experience building scalable web
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SVGamage/SVGamage/output/github-contribution-grid-snake.svg" />
     <img  src="https://github.com/SVGamage/SVGamage/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" /></a>
   </picture>
+</div>
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
 </div>
 
 ---
